@@ -14,5 +14,5 @@ The project Ball balancing bot follows the goal of developing a model and contro
 ![MIC Project Report](Ball Balancing Beam/MIC/Report/MIC.pdf)
 2. CAD Files
 3. Arduino Program
-4. Result
+4. Final Result
 ![Working](MIC/Report/Video Optimised.gif)
