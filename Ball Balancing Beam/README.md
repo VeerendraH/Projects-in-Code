@@ -1,5 +1,4 @@
-# Projects-in-Code
-Some of my work has to deal with code and programming. This is where I would like to store them.
+# Ball Balancing Beam
 
 ## Abstract
 The project Ball balancing bot follows the goal of developing a model and controller for the bot in order to balance a ball in the centre of a grooved track. If we push the ball away from the centre the bot automatically brings back and balances the ball at its mean position. Recognizing all these challenges involved in the problem statement, we have come up with various strategies to :-
