@@ -10,7 +10,9 @@ The project Ball balancing bot follows the goal of developing a model and contro
 
 ## Resources
 1. Project Report
-![MIC Project Report](https://github.com/VeerendraH/Projects-in-Code/blob/master/Ball%20Balancing%20Beam/MIC/Report/MIC.pdf)
+
+[MIC Project Report](https://github.com/VeerendraH/Projects-in-Code/blob/master/Ball%20Balancing%20Beam/MIC/Report/MIC.pdf)
+
 2. CAD Files
 ![Assembly](https://github.com/VeerendraH/Projects-in-Code/blob/master/Ball%20Balancing%20Beam/MIC/3D%20Modelling/Assembly%20v1.png)
 3. Arduino Program
